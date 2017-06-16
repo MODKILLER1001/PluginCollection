@@ -135,6 +135,12 @@
 		"configName": "BannerMaker"
 	},
 	{
+		"name": "Builders Utilities",
+		"desc": "Secret blocks menu and much more.",
+		"jarName": "BuildersUtilities.jar",
+		"configName": "EasyEnchant"
+	},
+	{
 		"name": "Easy Enchant",
 		"desc": "Add enchantments to items in an easy GUI!",
 		"jarName": "EasyEnchant.jar",
